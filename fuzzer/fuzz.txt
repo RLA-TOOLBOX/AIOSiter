@@ -1,0 +1,1 @@
+http://189.240.71.251/.env: DB_PASSWORD

@@ -1,0 +1,16 @@
+
+/.env
+/config
+/backup
+/admin
+/wp-admin
+/phpmyadmin
+/database
+/logs
+/secret
+/api
+/uploads
+/tmp
+/old
+/dev
+/test
